@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tony Hopeson Kanyamuka</h1>
 <h3 align="center">A passionate FullStack Developer,Software Engineer,blender 3d Artist and A 3d Game Developer</h3>
 
+<p align="center"><img  alt="coding" width="400" src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif">    </p>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tony-kan&label=Profile%20views&color=0e75b6&style=flat" alt="tony-kan" /> </p>
 
 - 🔭 I’m currently working on [GAIHUB](........)

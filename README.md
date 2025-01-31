@@ -127,6 +127,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tony-kan&show_icons=true&locale=en&layout=compact" alt="tony-kan" /></p>
 
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tony-kan&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="tony-kan" /></p>
 
 

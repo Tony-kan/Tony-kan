@@ -55,8 +55,8 @@ My work, projects and experience are available here:
 ---
 
 ## GitHub Stats
-![](https://github-readme-stats.shion.dev/api?username=Tony-kan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Tony-kan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats-iota-lilac-hveh7ocnc0.vercel.app/api?username=Tony-kan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![](https://streak-stats.demolab.com/?user=Tony-kan&theme=dark&hide_border=false)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Tony-kan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
